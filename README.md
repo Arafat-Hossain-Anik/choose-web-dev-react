@@ -8,4 +8,4 @@ From Here Anyone Can Choose Web Developers as per his budgets.
 * Total Spend Money
     * How much money one person has already spend, will show in cart.
 ## Budgets
-Although, there is section of budget of client, how many money he wants to spent. But it is stil hard coded. But it can be added easily.
+Although, there is section of budget of client, how many money he wants to spent. But it is still hard coded. But it can be added easily.
