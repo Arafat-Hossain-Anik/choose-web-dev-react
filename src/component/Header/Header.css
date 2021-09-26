@@ -1,9 +1,18 @@
+@import url('https://fonts.googleapis.com/css2?family=Mali&display=swap');
 .header-container{
     text-align: center;
 }
 .brand-name{
     font-size: 25px;
     font-weight: 700;
+}
+.bg-custom{
+    /* background: linear-gradient(
+    to right bottom,
+    rgba(255, 255, 255, 0.7),
+    rgba(255, 255, 255, 0.3)
+  ); */
+  background-color:rgba(2, 72, 100, 0.815);
 }
 .cart-icon{
     color: white;
@@ -18,4 +27,7 @@
   );
     color: black;
     padding:10px 0;
+}
+.sub-headings{
+    font-family: 'Mali', cursive;
 }

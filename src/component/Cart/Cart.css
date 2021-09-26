@@ -14,7 +14,8 @@
     text-align: left;
 }
 .developer-name{
-    background: linear-gradient( rgba(255, 255, 255, 0.337), rgba(214, 247, 243, 0.692));
+    background: linear-gradient( rgba(255, 255, 255, 0.589), rgba(214, 247, 243, 0.904));
+    box-shadow: 2px 5px 7px rgba(0, 0, 0, 0.158);
     color: black;
     padding: 5px;
     border-radius: 5px;
