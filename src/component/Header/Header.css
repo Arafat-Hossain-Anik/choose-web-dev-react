@@ -1,0 +1,13 @@
+.header-container{
+    text-align: center;
+}
+.header-image{
+    height: 50px;
+    filter:grayscale(50%);
+    background-color: white;
+}
+.cart-icon{
+    color: white;
+    font-size: 30px;
+    margin:5px 5px 5px 10px;
+}
