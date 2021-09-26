@@ -4,12 +4,6 @@ const Header = () => {
     return (
         // header section
         <div className="header-container">
-            {/* budget headings */}
-            <div className="budget-headings">
-                <h1>Welcome To Web Developers World!</h1>
-                <h4 className="sub-headings">Hire! Worlds Most Experience Web Developers For Your Company.</h4>
-                <h2>Total Budgets: $5 Million</h2>
-            </div>
             {/* bootstrap navbar is here */}
             <nav className="navbar navbar-expand-lg navbar-dark bg-custom">
                 <div className="container pe-0">
@@ -38,6 +32,12 @@ const Header = () => {
                     </div>
                 </div>
             </nav >
+            {/* budget headings */}
+            <div className="budget-headings">
+                <h1>Welcome To Web Developers World!</h1>
+                <h4 className="sub-headings">Hire! Worlds Most Experience Web Developers For Your Company.</h4>
+                <h2>Total Budgets: $5 Million</h2>
+            </div>
         </div >
     );
 };
