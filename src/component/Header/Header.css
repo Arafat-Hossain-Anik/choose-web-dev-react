@@ -1,24 +1,10 @@
+/* google font  */
 @import url('https://fonts.googleapis.com/css2?family=Mali&display=swap');
+/* header container */
 .header-container{
     text-align: center;
 }
-.brand-name{
-    font-size: 25px;
-    font-weight: 700;
-}
-.bg-custom{
-    /* background: linear-gradient(
-    to right bottom,
-    rgba(255, 255, 255, 0.7),
-    rgba(255, 255, 255, 0.3)
-  ); */
-  background-color:rgba(2, 72, 100, 0.815);
-}
-.cart-icon{
-    color: white;
-    font-size: 30px;
-    margin:5px 5px 5px 10px;
-}
+/* budget header container  */
 .budget-headings{
     background: linear-gradient(
     to right bottom,
@@ -30,4 +16,13 @@
 }
 .sub-headings{
     font-family: 'Mali', cursive;
+}
+/* nav-bar brand name design */
+.brand-name{
+    font-size: 25px;
+    font-weight: 700;
+}
+/* custom color for navbar */
+.bg-custom{
+  background-color:rgba(2, 72, 100, 0.815);
 }
